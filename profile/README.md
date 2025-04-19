@@ -9,26 +9,22 @@
     <img
       src="https://img.shields.io/badge/Documentation-0475b6?style=for-the-badge"
       alt="documentation web site"
-      />
-  </a>
-  <a href="https://discord.gg/Ty7MjWVfvh">
+      /></a>
+  <a href="https://discord.gg/Ty8MjWVfvh">
     <img 
       src="https://img.shields.io/discord/1275293995152703488?style=for-the-badge&label=Discord"
       alt="wesl discord"
-    />
-  </a>
+    /></a>
   <a href="https://www.npmjs.com/package/wesl">
-    <img
-      src="https://img.shields.io/npm/v/wesl?style=for-the-badge" 
-      alt="npm wesl package"
-    />
-  </a>
+      <img
+        src="https://img.shields.io/npm/v/wesl?style=for-the-badge" 
+        alt="npm wesl package"
+      /></a>
   <a href="https://crates.io/crates/wesl">
     <img 
       src="https://img.shields.io/crates/v/wesl?style=for-the-badge"
       alt="crates.io wesl crate"
-    />
-  </a>
+    /></a>
 </p>
 
 <p align="center">
